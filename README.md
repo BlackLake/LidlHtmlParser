@@ -1,4 +1,4 @@
 # LidlHtmlParser
 Html parser for discounted products in Lidl Lithuania
 
-This Project is the part of PriceTracker (https://github.com/furkant9/PriceTracker)
+This Project is a part of the PriceTracker project (https://github.com/furkant9/PriceTracker)
